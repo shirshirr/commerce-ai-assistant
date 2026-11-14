@@ -1,0 +1,8 @@
+product_id,name,category,brand,price,description,specifications,warranty,availability
+LAP001,ASUS Vivobook 15,Laptop,ASUS,55990,"A versatile laptop for programming, productivity and everyday multitasking.","Intel Core i5, 16GB RAM, 512GB SSD, 15.6 inch display",1 year,In Stock
+LAP002,Lenovo IdeaPad Slim 5,Laptop,Lenovo,59990,"A lightweight laptop suitable for students, developers and professionals.","AMD Ryzen 5, 16GB RAM, 512GB SSD, 14 inch display",1 year,In Stock
+LAP003,HP Pavilion 14,Laptop,HP,48990,"An everyday laptop for office work, browsing and academic activities.","Intel Core i5, 8GB RAM, 512GB SSD, 14 inch display",1 year,In Stock
+PHN001,Samsung Galaxy S24 FE,Smartphone,Samsung,49999,"A smartphone designed for photography, entertainment and productivity.","8GB RAM, 128GB storage, AMOLED display",1 year,In Stock
+PHN002,OnePlus 13R,Smartphone,OnePlus,42999,A performance-focused smartphone with a large battery and fast charging.,"12GB RAM, 256GB storage, AMOLED display",1 year,In Stock
+AUD001,Sony WH-CH720N,Headphones,Sony,8990,Wireless headphones with active noise cancellation for everyday listening.,"Bluetooth, ANC, up to 35 hours battery life",1 year,In Stock
+TAB001,Apple iPad 10th Generation,Tablet,Apple,34900,"A tablet for studying, entertainment, note-taking and productivity.","10.9 inch display, 64GB storage, Wi-Fi",1 year,In Stock
