@@ -51,7 +51,47 @@ CommerceAI combines **Retrieval-Augmented Generation (RAG), hybrid search, recip
                     |
                     v
        Context-Aware Product Recommendation
+
 ```
+
+
+
+## Project Roadmap
+
+CommerceAI is being developed towards a full conversational commerce and shopper intelligence platform.
+
+### Implemented
+- Product catalogue understanding and retrieval
+- Semantic search using Sentence Transformers and ChromaDB
+- Keyword retrieval using BM25
+- Hybrid search with Reciprocal Rank Fusion (RRF)
+- Conversational query rewriting and context-aware responses
+- Budget-based product filtering
+- LLM-powered product recommendations
+
+### In Progress
+- Cross-encoder reranking integration and evaluation
+- Persistent conversational memory
+- Customer intent detection
+- Customer preference and buying-signal extraction
+- Personalized shopper profiles
+
+### Planned
+- Shopper intelligence and merchant analytics dashboard
+- Product catalogue ingestion
+- Shopify integration
+- Cart and checkout workflows
+- Abandoned-cart follow-ups
+- Website chat widget
+- WhatsApp and Instagram integrations
+- Unified omnichannel conversation management
+- Backend APIs, authentication and production deployment
+
+**Development status:** Active development. Features listed as planned or in progress are not yet represented as completed functionality.
+
+
+
+
 
 ## Technology Stack
 
@@ -187,3 +227,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 **Built as an exploration of LLM applications, RAG architectures, hybrid information retrieval, and conversational AI for e-commerce.**
+
+
+
+
+
+
+
+
